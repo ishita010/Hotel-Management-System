@@ -1,0 +1,11 @@
+Rid,Category,AC,Dailyrent,Vacant
+R01,Deluxe,Yes,3000,No
+R02,Normal,No,1000,No
+R03,Connecting,Yes,2500,No
+R04,Normal,Yes,1500,No
+R05,Deluxe,No,2500,No
+R06,Connecting,No,2000,No
+R07,Normal,Yes,1500,Yes
+R08,Normal,Yes,1500,Yes
+R09,Deluxe,Yes,3000,Yes
+R10,Normal,No,1200,Yes

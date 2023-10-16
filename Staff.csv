@@ -1,0 +1,11 @@
+stid,stname,gender,age,post,doj,salary
+s01,ravinder singh,M,25,housekeeping,2017-05-04,15000
+s02,neelam jain,F,24,receptionist,2017-03-05,50000
+s03,arjun kapoor,M,30,manager,2018-06-01,75000
+s04,sakshi rathore,F,22,housekeeping,2019-11-02,15000
+s05,vikram chauhan,M,27,housekeeping,2016-03-12,15000
+s06,priya tiwari,F,26,chef,2017-09-24,25000
+s07,akansha jain,F,22,receptionist,2017-06-04,50000
+s08,kunal mishra,M,30,housekeeping,2017-09-05,15000
+s09,sapna chaudhary,F,24,housekeeping incharge,2016-03-11,30000
+s10,akash sharma,M,32,chef,2017-11-23,27500
